@@ -13,7 +13,7 @@
     }
   ],
   "env": {
-    "API_SECRET_KEY": "toxic-secret-2025",
+    "API_SECRET_KEY": "toxic",
     "TARGET_BASE": "https://pakistandatabase.com",
     "TARGET_PATH": "/databases/sim.php",
     "MIN_INTERVAL": "1.0"
