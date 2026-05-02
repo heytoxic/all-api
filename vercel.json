@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "app.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "app.py"
+    }
+  ],
+  "env": {
+    "API_SECRET_KEY": "toxic-secret-2025",
+    "TARGET_BASE": "https://pakistandatabase.com",
+    "TARGET_PATH": "/databases/sim.php",
+    "MIN_INTERVAL": "1.0"
+  }
+}
