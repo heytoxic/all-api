@@ -64,7 +64,7 @@ def _root_html():
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>e-dev.fun — Techofy API</title>
+  <title>Techofy API - Toxic</title>
   <style>
     *{margin:0;padding:0;box-sizing:border-box;}
     body{
@@ -154,7 +154,7 @@ def _root_html():
 <div class="glow"></div>
 <div class="card">
   <div class="badge">Private API Hub</div>
-  <h1>e-dev.fun</h1>
+  <h1>Techofy API</h1>
   <p class="sub">
     Secure, private APIs built &amp; maintained by
     <strong style="color:#a5b4fc">Toxic • @wiinc</strong>.<br>
